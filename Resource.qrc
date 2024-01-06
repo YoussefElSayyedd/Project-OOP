@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/bank.png</file>
+        <file>resources/imageCreditCard.png</file>
+        <file>resources/cardOne.jpg</file>
+        <file>resources/creditOne.jpg</file>
+        <file>resources/creditOneAlt.jpg</file>
+        <file>resources/Atm.jpg</file>
+    </qresource>
+</RCC>
